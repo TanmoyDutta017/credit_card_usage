@@ -14,19 +14,19 @@ The goal is to build a fully automated reporting system that updates weekly with
 
 #### 🚀 Key Features
 
-🔄 Automated Weekly Data Load
+🔄 **Automated Weekly Data Load**
 
 CSV data is loaded using a SQL Stored Procedure with BULK INSERT
 
 Enables quick and repeatable data refresh
 
-📊 Interactive Power BI Dashboard
+📊 **Interactive Power BI Dashboard**
 
 Real-time insights after refresh
 
 Fully dynamic filtering and slicing
 
-🧠 Business Insights Covered
+🧠 **Business Insights Covered**
 
 Total Revenue, Income, and Interest Earned
 
@@ -40,7 +40,7 @@ Revenue by Job, Education, Marital Status
 
 Card category performance (Silver, Gold, Platinum, Blue)
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 SQL Server
 
@@ -82,7 +82,7 @@ Power BI Refresh
 
 Updated Dashboard (Latest Week Data)
 
-📷 Dashboard Preview
+📷 **Dashboard Preview**
 
 #### 📊 Transaction Report
 
@@ -103,7 +103,7 @@ High-income group dominates transaction value
 
 Gender-based trends show comparable contribution with slight variation across time
 
-📂 Project Structure
+📂 ###**Project Structure**
 
 📁 Power\_BI\_Project
 
