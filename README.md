@@ -103,7 +103,7 @@ High-income group dominates transaction value
 
 Gender-based trends show comparable contribution with slight variation across time
 
-📂 ###**Project Structure**
+### 📂 **Project Structure**
 
 📁 Power\_BI\_Project
 
@@ -137,7 +137,7 @@ Gender-based trends show comparable contribution with slight variation across ti
 
 &nbsp;┗ README.md
 
-####▶️ How to Run This Project
+#### ▶️ How to Run This Project
 
 Clone the reposit
 
@@ -153,7 +153,7 @@ Update SQL connection if needed
 
 Click Refresh
 
-####🔄 Weekly Update Process
+#### 🔄 Weekly Update Process
 
 Replace CSV file with latest data
 
@@ -167,7 +167,7 @@ Refresh Power BI
 
 
 
-####📚 Learning Outcomes
+### 📚 Learning Outcomes
 
 Built a real-world ETL pipeline
 
