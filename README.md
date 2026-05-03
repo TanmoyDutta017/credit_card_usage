@@ -1,4 +1,4 @@
-### 💳 Credit Card Analytics Dashboard (SQL + Power BI)
+# 💳 Credit Card Analytics Dashboard (SQL + Power BI)
 
 ### 📌 Project Overview
 
